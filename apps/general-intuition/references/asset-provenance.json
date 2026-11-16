@@ -1,0 +1,40 @@
+{
+  "downloaded_on": "2026-11-16",
+  "source_page": "https://www.generalintuition.com/",
+  "assets": {
+    "wordmark.svg": "https://cdn.prod.website-files.com/68b73cd966b9c097c35f357b/68d5c7a33ab0896cc9b60b5f_logo_general_intuition.svg",
+    "mark.svg": "https://cdn.prod.website-files.com/68b73cd966b9c097c35f357b/68d5ba8f5e0308baf3bfdfde_logo_gi_negative.svg",
+    "khosla.svg": "https://cdn.prod.website-files.com/68b73cd966b9c097c35f357b/68c303f9ef99e72f17fb6311_03b1d21076084b90c33b0646c5cdc6b2_logo_khosla_ventures.svg",
+    "general-catalyst.svg": "https://cdn.prod.website-files.com/68b73cd966b9c097c35f357b/68c303f940cecf89cdb22d1f_logo_general_catalyst.svg",
+    "diagram.svg": "https://cdn.prod.website-files.com/68b73cd966b9c097c35f357b/68e4b05a44a7d738f86fe30c_diagram.svg",
+    "geist.woff2": "https://cdn.prod.website-files.com/68b73cd966b9c097c35f357b/68caeacac3825a3203d67750_Geist%5Bwght%5D.woff2",
+    "geist-mono.woff2": "https://cdn.prod.website-files.com/68b73cd966b9c097c35f357b/68caea8a7d381a0069718658_GeistMono%5Bwght%5D.woff2",
+    "alpha-lyrae.woff": "https://cdn.prod.website-files.com/68b73cd966b9c097c35f357b/68b8779f1b6166d8c3603ee4_AlphaLyrae-Medium.woff"
+  },
+  "sampled_frames": {
+    "racing.webp": {
+      "source": "https://general-intuition.pages.dev/media/video_racing.mp4",
+      "method": "One 256\u00d7128 decoded frame sampled via a temporary canvas from the visible official page video element. No video is included."
+    },
+    "mira.webp": {
+      "source": "https://general-intuition.pages.dev/media/video_mira_4x.mp4",
+      "method": "One 256\u00d7128 decoded frame sampled via a temporary canvas from the visible official page video element. No video is included."
+    },
+    "bee.webp": {
+      "source": "https://general-intuition.pages.dev/media/video_bee.mp4",
+      "method": "One 256\u00d7128 decoded frame sampled via a temporary canvas from the visible official page video element. No video is included."
+    },
+    "desert.webp": {
+      "source": "https://general-intuition.pages.dev/media/video_desert.mp4",
+      "method": "One 256\u00d7128 decoded frame sampled via a temporary canvas from the visible official page video element. No video is included."
+    },
+    "quadruped.webp": {
+      "source": "https://general-intuition.pages.dev/media/video_quadruped.mp4",
+      "method": "One 256\u00d7128 decoded frame sampled via a temporary canvas from the visible official page video element. No video is included."
+    },
+    "warehouse.webp": {
+      "source": "https://general-intuition.pages.dev/media/video_warehouse.mp4",
+      "method": "One 256\u00d7128 decoded frame sampled via a temporary canvas from the visible official page video element. No video is included."
+    }
+  }
+}

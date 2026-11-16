@@ -1,0 +1,46 @@
+[
+  {
+    "asset": "public/assets/hero-texture.webp",
+    "source": "references/section-1.webp",
+    "crop_xyxy": [
+      210,
+      120,
+      1710,
+      175
+    ],
+    "purpose": "Artwork only; all interface text and controls are rendered DOM."
+  },
+  {
+    "asset": "public/assets/office.webp",
+    "source": "references/section-2.webp",
+    "crop_xyxy": [
+      852,
+      438,
+      1691,
+      1041
+    ],
+    "purpose": "Artwork only; all interface text and controls are rendered DOM."
+  },
+  {
+    "asset": "public/assets/finance.webp",
+    "source": "references/section-3.webp",
+    "crop_xyxy": [
+      789,
+      390,
+      1693,
+      955
+    ],
+    "purpose": "Artwork only; all interface text and controls are rendered DOM."
+  },
+  {
+    "asset": "public/assets/research.webp",
+    "source": "references/section-4.webp",
+    "crop_xyxy": [
+      1577,
+      202,
+      1700,
+      346
+    ],
+    "purpose": "Artwork only; all interface text and controls are rendered DOM."
+  }
+]

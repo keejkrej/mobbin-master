@@ -1,0 +1,22 @@
+:root {
+  --cartesia-paper: #f9f9f9;
+  --cartesia-ink: #1d201b;
+  --cartesia-green: #00512b;
+  --cartesia-accent: #389955;
+  --cartesia-soft: #f1f0ec;
+  --cartesia-line: #e1e2dc;
+  --cartesia-muted: #5b6059;
+  --cartesia-white: #ffffff;
+  --cartesia-on-green: #f4f5ec;
+  --cartesia-hero-copy: #b8cbb9;
+  --cartesia-serif: Georgia, 'Times New Roman', serif;
+  --cartesia-sans: Inter, Arial, sans-serif;
+  --cartesia-radius-sm: 6px;
+  --cartesia-radius-md: 9px;
+  --cartesia-radius-lg: 15px;
+  --cartesia-space-xs: 4px;
+  --cartesia-space-sm: 8px;
+  --cartesia-space-md: 16px;
+  --cartesia-space-lg: 24px;
+  --cartesia-space-xl: 48px;
+}

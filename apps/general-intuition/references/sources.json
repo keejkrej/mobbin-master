@@ -1,0 +1,63 @@
+{
+  "product": "General Intuition",
+  "source": "Official website (not Mobbin)",
+  "source_url": "https://www.generalintuition.com/",
+  "retrieved_on": "2026-11-16",
+  "page_title": "General Intuition | The frontier lab for acting in space and time.",
+  "source_type": "Official-source fallback authorized after exact Mobbin candidate searches did not match",
+  "captures": [
+    {
+      "file": "desktop.png",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "state": "Full-page official site, initial hero and scroll-triggered media not all rendered"
+    },
+    {
+      "file": "mobile.png",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "state": "Full-page official mobile layout"
+    },
+    {
+      "file": "settings-desktop.png",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "state": "Open inline ASCII settings"
+    },
+    {
+      "file": "research-desktop.png",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "state": "Research heading and visible MIRA ASCII scene"
+    }
+  ],
+  "rejected_mobbin_queries": [
+    {
+      "query": "Standard Intelligence hero section",
+      "reason": "Returned Spade, Amperos, Qatalog; no exact target in inspected limited results"
+    },
+    {
+      "query": "Physical Intelligence hero section",
+      "reason": "Returned Atlas Motion Systems and Spade; not the named research lab"
+    },
+    {
+      "query": "Odyssey AI hero section",
+      "reason": "Returned TheyDo and ClickUp; not the target"
+    }
+  ],
+  "mobbin_limitations": "Further pagination was rate-limited. No Mobbin General Intuition screen or section is claimed or used.",
+  "rejected_alternative": {
+    "name": "Atlas Motion Systems",
+    "official_url": "https://atlasmotion.com/",
+    "reason": "Verified robotics motor manufacturing startup; weak fit for the requested new AI research laboratories."
+  },
+  "implementation": "Next.js + Vercel UI SDK; screenshot-informed structure, original locally rendered ASCII effect, local-only interaction previews."
+}

@@ -1,0 +1,31 @@
+{
+  "provider": "Mobbin MCP",
+  "retrieved_at": "2026-11-16",
+  "task_intent": "Expand an interactive Next.js design-system collection with distinctive, visually expressive AI-startup websites grounded in Mobbin references.",
+  "sections": [
+    {
+      "id": "ee414a56-22ee-417e-a5e4-b6f5071465d2",
+      "image_url": "https://mobbin.com/api/mcp/short/r5x64RFD",
+      "mobbin_url": "https://mobbin.com/sites/sections/ee414a56-22ee-417e-a5e4-b6f5071465d2?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "site_name": "Cartesia"
+    },
+    {
+      "id": "30259f3f-32d7-44a1-9847-f859443571e9",
+      "image_url": "https://mobbin.com/api/mcp/short/pmxubdCY",
+      "mobbin_url": "https://mobbin.com/sites/sections/30259f3f-32d7-44a1-9847-f859443571e9?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "site_name": "Cartesia"
+    },
+    {
+      "id": "3d0d75f1-0794-4a39-ab47-cf46df0b2c68",
+      "image_url": "https://mobbin.com/api/mcp/short/2s3v7CfQ",
+      "mobbin_url": "https://mobbin.com/sites/sections/3d0d75f1-0794-4a39-ab47-cf46df0b2c68?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "site_name": "Cartesia"
+    },
+    {
+      "id": "5d435d51-0e0a-4946-b512-15b4efd875c4",
+      "image_url": "https://mobbin.com/api/mcp/short/pmZ4gZ4N",
+      "mobbin_url": "https://mobbin.com/sites/sections/5d435d51-0e0a-4946-b512-15b4efd875c4",
+      "site_name": "Cartesia"
+    }
+  ]
+}

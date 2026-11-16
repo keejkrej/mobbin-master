@@ -1,0 +1,38 @@
+{
+  "provider": "Mobbin MCP",
+  "retrieved_at": "2026-11-16",
+  "sections": [
+    {
+      "id": "fd230352-a273-4882-b2f4-1f8ed2b32651",
+      "image_url": "https://mobbin.com/api/mcp/short/JTTkEtEk",
+      "mobbin_url": "https://mobbin.com/sites/sections/fd230352-a273-4882-b2f4-1f8ed2b32651",
+      "site_name": "Contra Labs",
+      "file": "section-hero.webp",
+      "section": "hero"
+    },
+    {
+      "id": "057d0d6c-7542-4456-a4a2-7ee9854ec54b",
+      "image_url": "https://mobbin.com/api/mcp/short/TsyDznM9",
+      "mobbin_url": "https://mobbin.com/sites/sections/057d0d6c-7542-4456-a4a2-7ee9854ec54b",
+      "site_name": "Contra Labs",
+      "file": "section-ecosystem.webp",
+      "section": "ecosystem"
+    },
+    {
+      "id": "08557308-0293-4220-9b8c-f68089677d7d",
+      "image_url": "https://mobbin.com/api/mcp/short/Q87G75vF",
+      "mobbin_url": "https://mobbin.com/sites/sections/08557308-0293-4220-9b8c-f68089677d7d",
+      "site_name": "Contra Labs",
+      "file": "section-footer.webp",
+      "section": "footer"
+    },
+    {
+      "id": "6b60d40c-bee0-4e36-af5d-bc70662eff8b",
+      "image_url": "https://mobbin.com/api/mcp/short/Y3jhQlBN",
+      "mobbin_url": "https://mobbin.com/sites/sections/6b60d40c-bee0-4e36-af5d-bc70662eff8b",
+      "site_name": "Contra Labs",
+      "file": "section-faq.webp",
+      "section": "faq"
+    }
+  ]
+}

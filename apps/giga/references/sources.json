@@ -1,0 +1,30 @@
+{
+  "provider": "Mobbin MCP",
+  "retrieved_at": "2026-11-16",
+  "sections": [
+    {
+      "id": "f11b7c73-1f62-4c2e-a5c1-bf117f99dcd5",
+      "file": "hero.webp",
+      "image_url": "https://mobbin.com/api/mcp/short/ztYCAmgh",
+      "kind": "forest-era hero",
+      "mobbin_url": "https://mobbin.com/sites/sections/f11b7c73-1f62-4c2e-a5c1-bf117f99dcd5",
+      "site_name": "Giga"
+    },
+    {
+      "id": "a751e385-975b-48dc-9981-be7b83f2a150",
+      "file": "voice.webp",
+      "image_url": "https://mobbin.com/api/mcp/short/wU63t5je",
+      "kind": "newer voice product section",
+      "mobbin_url": "https://mobbin.com/sites/sections/a751e385-975b-48dc-9981-be7b83f2a150",
+      "site_name": "Giga"
+    },
+    {
+      "id": "1e41291f-dabe-4797-a893-ee057bedf952",
+      "file": "conversation.webp",
+      "image_url": "https://mobbin.com/api/mcp/short/mGVEZtxR",
+      "kind": "newer multi-channel section",
+      "mobbin_url": "https://mobbin.com/sites/sections/1e41291f-dabe-4797-a893-ee057bedf952",
+      "site_name": "Giga"
+    }
+  ]
+}

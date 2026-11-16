@@ -1,0 +1,58 @@
+{
+  "brand": "Decart",
+  "source_type": "official-site-fallback",
+  "captured_at": "2026-11-16",
+  "official_url": "https://decart.ai/",
+  "reference_status": "Exact official brand; Mobbin query first page returned Cartesia, which was rejected. Catalog-wide absence is not asserted.",
+  "mobbin_search": {
+    "query": "Decart hero section",
+    "page": 1,
+    "limit": 3,
+    "has_next_page": true,
+    "returned_site_names": [
+      "Cartesia",
+      "Cartesia",
+      "Cartesia"
+    ],
+    "returned_section_ids": [
+      "34a6c6da-50ca-4980-8ec3-09ee3cd06545",
+      "ee414a56-22ee-417e-a5e4-b6f5071465d2",
+      "f84356f3-5c58-4bde-9e9a-5b3515d14d6e"
+    ],
+    "task_intent": "Expand an interactive Next.js design-system collection with distinctive, visually expressive AI-startup websites grounded in Mobbin references.",
+    "output_destination": "code",
+    "output_tool": "Next.js"
+  },
+  "captures": [
+    {
+      "file": "official-desktop.png",
+      "source_url": "https://decart.ai/",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "state": "Homepage after rejecting optional cookies"
+    },
+    {
+      "file": "official-mobile.png",
+      "source_url": "https://decart.ai/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "state": "Homepage mobile after rejecting optional cookies"
+    },
+    {
+      "file": "official-models.png",
+      "source_url": "https://decart.ai/",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "state": "Homepage scrolled to Lucy World Editing Model"
+    }
+  ],
+  "observed_font": "Roobert (official computed style)",
+  "implemented_font": "Arial, Helvetica, sans-serif; proprietary source fonts not copied",
+  "scope": "Homepage core sections with inferred local demo/contact dialogs; media is recorded, not generated."
+}

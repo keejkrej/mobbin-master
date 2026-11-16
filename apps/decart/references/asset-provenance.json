@@ -1,0 +1,192 @@
+[
+  {
+    "file": "public/assets/adobe.svg",
+    "source_url": "https://cdn.sanity.io/images/956xru27/production/1e0d14fbf7e026c12bceaac562a282b3bdb82e72-84x30.svg",
+    "bytes": 5096
+  },
+  {
+    "file": "public/assets/amazon.svg",
+    "source_url": "https://cdn.sanity.io/images/956xru27/production/2d8a958f91ec1913a577f9210f686c5bde46b471-84x33.svg",
+    "bytes": 5845
+  },
+  {
+    "file": "public/assets/wpp.svg",
+    "source_url": "https://cdn.sanity.io/images/956xru27/production/3f8211fde5bd01eda8366b507cf2853d7ef88614-84x30.svg",
+    "bytes": 49594
+  },
+  {
+    "file": "public/assets/ebay.svg",
+    "source_url": "https://cdn.sanity.io/images/956xru27/production/a896cac20a943b13602a3df0cfe1cbf15c536482-84x30.svg",
+    "bytes": 2090
+  },
+  {
+    "file": "public/assets/elevenlabs.svg",
+    "source_url": "https://cdn.sanity.io/images/956xru27/production/df438cfc66c3671b4e256bf1840338de9d6334f6-110x30.svg",
+    "bytes": 4510
+  },
+  {
+    "file": "public/assets/fal.svg",
+    "source_url": "https://cdn.sanity.io/images/956xru27/production/7bb4c62b7f13f23fdc2fa01804cf9f2a979cdeed-84x30.svg",
+    "bytes": 3220
+  },
+  {
+    "file": "public/assets/nvidia.svg",
+    "source_url": "https://cdn.sanity.io/images/956xru27/production/5aa18fb509a975f39de64eff5be3ecaf5690aa73-84x30.svg",
+    "bytes": 3560
+  },
+  {
+    "file": "public/assets/toyota.svg",
+    "source_url": "https://cdn.sanity.io/images/956xru27/production/7a487cd6a263586330711c417ae2af8b6c724c7a-84x30.svg",
+    "bytes": 4982
+  },
+  {
+    "file": "public/assets/twitch.svg",
+    "source_url": "https://cdn.sanity.io/images/956xru27/production/f56ac5dc0f8a442e458f58ca15f25451388029d7-84x30.svg",
+    "bytes": 1119
+  },
+  {
+    "file": "public/assets/comcast.svg",
+    "source_url": "https://cdn.sanity.io/images/956xru27/production/a77d05f60574c3527cfb454222cb0845e2b618a8-84x30.svg",
+    "bytes": 6179
+  },
+  {
+    "file": "public/assets/chip-poster.avif",
+    "source_url": "https://decart.ai/images/posters/chip.avif",
+    "bytes": 16558
+  },
+  {
+    "file": "public/assets/lucy-base.mp4",
+    "source_url": "https://decart.ai/videos/lucy/stage/try-on/base.mp4",
+    "bytes": 1189765
+  },
+  {
+    "file": "public/assets/lucy-base.jpg",
+    "source_url": "https://decart.ai/videos/lucy/stage/try-on/base.jpg",
+    "bytes": 11313
+  },
+  {
+    "file": "public/assets/oasis.mp4",
+    "source_url": "https://decart.ai/videos/oasis/prompt-to-generate.mp4",
+    "bytes": 2025038
+  },
+  {
+    "file": "public/assets/lucy-1.mp4",
+    "source_url": "https://decart.ai/videos/lucy/stage/try-on/01.mp4",
+    "bytes": 1187079
+  },
+  {
+    "file": "public/assets/lucy-1.jpg",
+    "source_url": "https://decart.ai/videos/lucy/stage/try-on/01.jpg",
+    "bytes": 167243
+  },
+  {
+    "file": "public/assets/lucy-1-thumb.jpg",
+    "source_url": "https://decart.ai/videos/lucy/stage/try-on/01-thumb.jpg",
+    "bytes": 19624
+  },
+  {
+    "file": "public/assets/lucy-2.mp4",
+    "source_url": "https://decart.ai/videos/lucy/stage/try-on/02.mp4",
+    "bytes": 1192323
+  },
+  {
+    "file": "public/assets/lucy-2.jpg",
+    "source_url": "https://decart.ai/videos/lucy/stage/try-on/02.jpg",
+    "bytes": 124766
+  },
+  {
+    "file": "public/assets/lucy-2-thumb.jpg",
+    "source_url": "https://decart.ai/videos/lucy/stage/try-on/02-thumb.jpg",
+    "bytes": 12469
+  },
+  {
+    "file": "public/assets/lucy-3.mp4",
+    "source_url": "https://decart.ai/videos/lucy/stage/try-on/03.mp4",
+    "bytes": 1194929
+  },
+  {
+    "file": "public/assets/lucy-3.jpg",
+    "source_url": "https://decart.ai/videos/lucy/stage/try-on/03.jpg",
+    "bytes": 154295
+  },
+  {
+    "file": "public/assets/lucy-3-thumb.jpg",
+    "source_url": "https://decart.ai/videos/lucy/stage/try-on/03-thumb.jpg",
+    "bytes": 15259
+  },
+  {
+    "file": "public/assets/lucy-4.mp4",
+    "source_url": "https://decart.ai/videos/lucy/stage/try-on/04.mp4",
+    "bytes": 1181548
+  },
+  {
+    "file": "public/assets/lucy-4.jpg",
+    "source_url": "https://decart.ai/videos/lucy/stage/try-on/04.jpg",
+    "bytes": 131361
+  },
+  {
+    "file": "public/assets/lucy-4-thumb.jpg",
+    "source_url": "https://decart.ai/videos/lucy/stage/try-on/04-thumb.jpg",
+    "bytes": 11568
+  },
+  {
+    "file": "public/assets/lucy-5.mp4",
+    "source_url": "https://decart.ai/videos/lucy/stage/try-on/05.mp4",
+    "bytes": 1195549
+  },
+  {
+    "file": "public/assets/lucy-5.jpg",
+    "source_url": "https://decart.ai/videos/lucy/stage/try-on/05.jpg",
+    "bytes": 131764
+  },
+  {
+    "file": "public/assets/lucy-5-thumb.jpg",
+    "source_url": "https://decart.ai/videos/lucy/stage/try-on/05-thumb.jpg",
+    "bytes": 10522
+  },
+  {
+    "file": "public/assets/research-0.jpg",
+    "source_url": "https://cdn.sanity.io/images/956xru27/production/648d940059883ac1524d5372af289fe058b42350-1288x704.png?auto=format&q=80&w=800",
+    "bytes": 53044
+  },
+  {
+    "file": "public/assets/research-1.jpg",
+    "source_url": "https://cdn.sanity.io/images/956xru27/production/c6d6d34370b72bf6034971119185530b6e05591d-4800x2520.png?auto=format&q=80&w=800",
+    "bytes": 312449
+  },
+  {
+    "file": "public/assets/research-2.jpg",
+    "source_url": "https://decart.ai/images/research/spatial-memory-codec.jpg",
+    "bytes": 128974
+  },
+  {
+    "file": "public/assets/decart-logo.svg",
+    "source_url": "https://decart.ai/",
+    "method": "Unmodified path geometry from observed header SVG; removed generated class and accessible attributes.",
+    "bytes": 5471
+  },
+  {
+    "file": "public/assets/morph.webm",
+    "source_url": "https://decart.ai/videos/morph.webm",
+    "method": "Full source loop decoded with libvpx-vp9 preserving alpha, transcoded to 600px width, VP9 CRF38 with alpha, no audio.",
+    "bytes": 1500253
+  },
+  {
+    "file": "public/assets/opt.webm",
+    "source_url": "https://decart.ai/videos/opt.webm",
+    "method": "Full source loop decoded with libvpx-vp9 preserving alpha, transcoded to 600px width, VP9 CRF38 with alpha, no audio.",
+    "bytes": 950526
+  },
+  {
+    "file": "public/assets/globe-poster.webp",
+    "source_url": "https://decart.ai/videos/morph.webm",
+    "method": "Static transparent WebP extracted at 2.5 seconds from the locally transcoded source video for reduced-motion rendering.",
+    "bytes": 11376
+  },
+  {
+    "file": "public/assets/oasis-poster.webp",
+    "source_url": "https://decart.ai/videos/oasis/prompt-to-generate.mp4",
+    "method": "Static WebP extracted at 4.8 seconds from the source video for reduced-motion rendering.",
+    "bytes": 52528
+  }
+]

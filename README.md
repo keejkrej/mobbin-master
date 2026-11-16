@@ -1,6 +1,6 @@
 # Interface Studies
 
-Twenty separate Next.js apps reconstructed from saved Mobbin web references, with interactive screen states and documented design systems.
+Twenty-six separate Next.js studies of apps and websites, with interactive states and documented design systems. Twenty-four use saved Mobbin references; Decart and General Intuition use captured official websites because the Mobbin searches returned no exact matches.
 
 | App | Folder | Preview route | Main interactions |
 | --- | --- | --- | --- |
@@ -24,6 +24,12 @@ Twenty separate Next.js apps reconstructed from saved Mobbin web references, wit
 | Gamma | [apps/gamma](apps/gamma) | `/gamma/` | Editor, Theme, Present |
 | Lovable | [apps/lovable](apps/lovable) | `/lovable/` | Home, Builder, Settings |
 | Bolt.new | [apps/bolt](apps/bolt) | `/bolt/` | Home, Builder, Preview |
+| FLORA | [apps/flora](apps/flora) | `/flora/` | Canvas, Teams, Demo |
+| Cartesia | [apps/cartesia](apps/cartesia) | `/cartesia/` | Models, Voice demo, Contact |
+| Giga | [apps/giga](apps/giga) | `/giga/` | Home, Voice demo, Contact |
+| Contra Labs | [apps/contra-labs](apps/contra-labs) | `/contra-labs/` | Research, FAQ, Apply |
+| Decart | [apps/decart](apps/decart) | `/decart/` | Models, Demo, Contact |
+| General Intuition | [apps/general-intuition](apps/general-intuition) | `/general-intuition/` | Research, Demo, Careers |
 
 ## Run
 
@@ -35,7 +41,7 @@ npm run build
 npm run dev
 ```
 
-Open `http://localhost:3000` for the collection, then choose an app. The collection serves the static Next.js exports; rebuild after changing app code. Its searchable gallery includes filters for AI products and the latest additions. `collection.json` defines the gallery entries and their order. The highest `edition` value supplies the Latest filter.
+Open `http://localhost:3000` for the collection, then choose an app. The collection serves the static Next.js exports; rebuild after changing app code. Its searchable gallery includes filters for AI products, websites and the latest additions. `collection.json` defines the gallery entries and their order. The highest `edition` value supplies the Latest filter.
 
 For live development of a single app:
 
@@ -43,7 +49,7 @@ For live development of a single app:
 npm run dev --workspace @study/linear
 ```
 
-This serves Linear at `http://localhost:3001/linear`. The twenty apps use ports 3001–3020 in the table order, with their matching base paths. Each is independently runnable and exportable, while sharing dependencies through npm workspaces.
+This serves Linear at `http://localhost:3001/linear`. The twenty-six apps use ports 3001–3026 in the table order, with their matching base paths. Each is independently runnable and exportable, while sharing dependencies through npm workspaces.
 
 ## Files in each app
 
@@ -51,7 +57,7 @@ This serves Linear at `http://localhost:3001/linear`. The twenty apps use ports 
 - `tokens.json` — the corresponding design token tree for reuse.
 - `tokens.css` — runtime CSS custom properties used by that app.
 - `app/` and `components/` — real React UI, rather than a screenshot displayed as a page.
-- `references/` — original downloaded Mobbin screenshots and a dated `sources.json` with canonical screen URLs.
+- `references/` — original downloaded Mobbin screenshots or official-site captures, plus a dated `sources.json` with source URLs and asset provenance.
 - `public/` — local assets when required, with extraction provenance documented in `DESIGN.md`.
 
 ## Stack
@@ -71,8 +77,8 @@ Browser tests expect the collection preview to be running. Set `PLAYWRIGHT_BASE_
 
 ## Scope and fidelity
 
-These are independent interface studies, not official applications or original brand design system releases. Colors and dimensions are inferred from the reference captures retrieved on November 16, 2026. Proprietary font files and original vector assets were not supplied. Font substitutions, artwork crops, and states not visible in the references are described per app. Responsive layouts are inferred where only a desktop reference exists.
+These are independent interface studies, not official applications or original brand design system releases. Colors and dimensions are inferred from the reference captures retrieved on November 16, 2026. Fonts, brand assets, artwork crops, and states not visible in the references are documented per app. Some studies use public-site assets; others use local font substitutions and carefully scoped image crops. Responsive layouts are inferred where only a desktop reference exists.
 
-Interactions run locally. AI replies are deterministic examples; Spotify's player simulates progress without streaming audio; account, reservation and task flows do not call production services. Some examples store their own study data in browser localStorage. No API keys are required. The AI studies cover assistants, search, coding, workflow agents, presentations, speech, images, video, and music. Generated results and media playback are local simulations.
+Interactions run locally. AI replies are deterministic examples; Spotify's player simulates progress without streaming audio; account, reservation and task flows do not call production services. Some examples store their own study data in browser localStorage. No API keys are required. The AI studies cover assistants, search, coding, workflow agents, presentations, speech, images, video, music, and research-lab websites. The fourth collection emphasizes expressive marketing sites: canvas compositions, editorial typography, textured artwork, landscapes and motion. Its website demos and inquiry forms run locally. Generated results are local simulations; website artwork and clips use saved assets.
 
 Saved reference screenshots retain their source attribution. Brand assets and screenshots remain the property of their respective owners. Dependency licenses remain with their packages; UI SDK is Apache-2.0. This repository does not claim a license to redistribute third-party branding beyond the supplied study materials.
