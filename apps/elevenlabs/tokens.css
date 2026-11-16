@@ -1,0 +1,27 @@
+:root {
+  --el-canvas: #ffffff;
+  --el-sidebar: #fafafa;
+  --el-surface: #f6f6f6;
+  --el-selected: #efefef;
+  --el-border: #e6e6e6;
+  --el-text: #141414;
+  --el-muted: #777777;
+  --el-primary: #141414;
+  --el-slider: #17202b;
+  --el-tag: #a349bf;
+  --el-track: #e5e5e5;
+  --el-font: Arial, Helvetica, sans-serif;
+  --el-sidebar-width: 244px;
+  --el-header-height: 48px;
+  --el-player-height: 80px;
+  --el-radius-sm: 8px;
+  --el-radius-md: 12px;
+  --el-radius-lg: 18px;
+  --el-radius-full: 999px;
+  --el-space-1: 4px;
+  --el-space-2: 8px;
+  --el-space-3: 12px;
+  --el-space-4: 16px;
+  --el-space-6: 24px;
+  --el-space-8: 32px;
+}

@@ -1,0 +1,27 @@
+:root {
+  --mj-primary: #c93518;
+  --mj-text: #28292d;
+  --mj-muted: #686b74;
+  --mj-canvas: #fdfdfd;
+  --mj-surface: #ffffff;
+  --mj-panel: #fafafa;
+  --mj-border: #e5e5e7;
+  --mj-quiet: #f1f3f4;
+  --mj-accent-soft: #fff0ec;
+  --mj-accent-border: #f8dfd8;
+  --mj-focus: #ca3c20;
+  --mj-font: "Inter", Arial, sans-serif;
+  --mj-radius-small: 6px;
+  --mj-radius-medium: 10px;
+  --mj-radius-large: 14px;
+  --mj-radius-full: 999px;
+  --mj-space-xs: 4px;
+  --mj-space-small: 8px;
+  --mj-space-base: 16px;
+  --mj-space-large: 24px;
+  --mj-sidebar: 208px;
+  --mj-detail: 365px;
+  --mj-toolbar: 52px;
+  --mj-control: 32px;
+  --mj-thumb: 63px;
+}

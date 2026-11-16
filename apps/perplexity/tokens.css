@@ -1,0 +1,20 @@
+:root {
+  --px-canvas: #fbf7f6;
+  --px-sidebar: #f2eeeb;
+  --px-surface: #fffbfb;
+  --px-canvas-connectors: #faf8f6;
+  --px-sidebar-connectors: #f1f0ec;
+  --px-ink: #22221f;
+  --px-muted: #706f6b;
+  --px-border: #dcd9d5;
+  --px-hover: #eae7e2;
+  --px-accent: #09666a;
+  --px-feature: #00686b;
+  --px-deep: #071e20;
+  --px-radius-sm: 8px;
+  --px-radius-md: 12px;
+  --px-radius-lg: 16px;
+  --px-sidebar-width: 202px;
+  --px-composer-width: 650px;
+  --px-font: Inter, Arial, sans-serif;
+}

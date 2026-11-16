@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "linear",
+    "name": "Linear",
+    "category": "WORKSPACE",
+    "description": "A little less interface. A lot more focus.",
+    "color": "#6767d9",
+    "glyph": "◒",
+    "states": "Issues · Detail · Create",
+    "ai": false
+  },
+  {
+    "slug": "spotify",
+    "name": "Spotify",
+    "category": "ENTERTAINMENT",
+    "description": "Music takes the foreground.",
+    "color": "#1ed760",
+    "glyph": "≋",
+    "states": "Playlist · Album · Lyrics",
+    "ai": false
+  },
+  {
+    "slug": "airbnb",
+    "name": "Airbnb",
+    "category": "TRAVEL",
+    "description": "Finding a place that feels like you.",
+    "color": "#ff385c",
+    "glyph": "⌂",
+    "states": "Explore · Stay · Saved",
+    "ai": false
+  },
+  {
+    "slug": "chatgpt",
+    "name": "ChatGPT",
+    "category": "AI ASSISTANT",
+    "description": "A blank canvas for a conversation.",
+    "color": "#34836d",
+    "glyph": "✺",
+    "states": "New chat · Conversation · History",
+    "ai": true
+  },
+  {
+    "slug": "claude",
+    "name": "Claude",
+    "category": "AI ASSISTANT",
+    "description": "Warm, quiet, and considered.",
+    "color": "#c97555",
+    "glyph": "✳",
+    "states": "Chats · Conversation · New chat",
+    "ai": true
+  },
+  {
+    "slug": "gemini",
+    "name": "Gemini",
+    "category": "AI ASSISTANT",
+    "description": "A little spark, an open possibility.",
+    "color": "#4385f5",
+    "glyph": "✦",
+    "states": "Home · Temporary chat · Conversation",
+    "ai": true
+  },
+  {
+    "slug": "cursor",
+    "name": "Cursor",
+    "category": "DEVELOPER TOOLS",
+    "description": "An agent workspace with room to think.",
+    "color": "#252525",
+    "glyph": "▱",
+    "states": "Composer · Task · Model selection",
+    "ai": true
+  },
+  {
+    "slug": "grok",
+    "name": "Grok",
+    "category": "AI ASSISTANT",
+    "description": "A direct line from question to answer.",
+    "color": "#252525",
+    "glyph": "∕",
+    "states": "Conversation · Edit · New chat",
+    "ai": true
+  },
+  {
+    "slug": "perplexity",
+    "name": "Perplexity",
+    "category": "AI SEARCH",
+    "description": "A question, a trail of sources.",
+    "color": "#20808d",
+    "glyph": "✳",
+    "states": "Search · Answer · Connectors",
+    "ai": true
+  },
+  {
+    "slug": "replit",
+    "name": "Replit",
+    "category": "AI DEVELOPMENT",
+    "description": "From an idea to a running workspace.",
+    "color": "#f26207",
+    "glyph": "▰",
+    "states": "Projects · Workspace · Workflows",
+    "ai": true
+  },
+  {
+    "slug": "elevenlabs",
+    "name": "ElevenLabs",
+    "category": "AI AUDIO",
+    "description": "A voice for every line.",
+    "color": "#191919",
+    "glyph": "Ⅱ",
+    "states": "Speech editor · Voices · History",
+    "ai": true
+  },
+  {
+    "slug": "midjourney",
+    "name": "Midjourney",
+    "category": "AI IMAGES",
+    "description": "Imagine it, then explore the details.",
+    "color": "#e65a3a",
+    "glyph": "⛵",
+    "states": "Gallery · Image · Prompt controls",
+    "ai": true
+  },
+  {
+    "slug": "runway",
+    "name": "Runway",
+    "category": "AI VIDEO",
+    "description": "An open canvas for moving images.",
+    "color": "#3621f5",
+    "glyph": "r",
+    "states": "Tools · Chat · Generation settings",
+    "ai": true
+  },
+  {
+    "slug": "suno",
+    "name": "Suno",
+    "category": "AI MUSIC",
+    "description": "Turn a description into a song idea.",
+    "color": "#ed5935",
+    "glyph": "S",
+    "states": "Create · Workspace · Song selection",
+    "ai": true
+  }
+]
