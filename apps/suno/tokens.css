@@ -1,0 +1,20 @@
+:root {
+  --suno-primary: #f86c43;
+  --suno-primary-end: #e43c8b;
+  --suno-canvas: #101012;
+  --suno-surface: #19191b;
+  --suno-card: #171719;
+  --suno-raised: #232326;
+  --suno-text: #f5f5f5;
+  --suno-muted: #a1a1a7;
+  --suno-dim: #737378;
+  --suno-border: #2b2b2e;
+  --suno-success: #65ca93;
+  --suno-font: Inter, Arial, sans-serif;
+  --suno-sidebar: clamp(190px, 13.2vw, 254px);
+  --suno-creator: clamp(360px, 29.8vw, 572px);
+  --suno-player: 106px;
+  --suno-radius-card: 24px;
+  --suno-radius-dialog: 40px;
+  --suno-radius-pill: 999px;
+}

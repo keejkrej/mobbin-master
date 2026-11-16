@@ -1,0 +1,42 @@
+{
+  "provider": "Mobbin MCP",
+  "retrieved_at": "2026-11-16",
+  "screens": [
+    {
+      "index": 0,
+      "id": "fc639387-b45b-4dcf-b32a-7455bc507dab",
+      "image_url": "https://mobbin.com/api/mcp/short/HI3m7dd5",
+      "mobbin_url": "https://mobbin.com/screens/fc639387-b45b-4dcf-b32a-7455bc507dab?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Midjourney",
+      "platform": "web",
+      "file": "screen-1.webp"
+    },
+    {
+      "index": 1,
+      "id": "fb94adeb-ef10-40a0-a793-fcbf46613435",
+      "image_url": "https://mobbin.com/api/mcp/short/vcIaTEXH",
+      "mobbin_url": "https://mobbin.com/screens/fb94adeb-ef10-40a0-a793-fcbf46613435?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Midjourney",
+      "platform": "web",
+      "file": "screen-2.webp"
+    },
+    {
+      "index": 0,
+      "id": "fdaac0b8-326b-4e3f-9223-08bf0b53858c",
+      "image_url": "https://mobbin.com/api/mcp/short/voMQBR6m",
+      "mobbin_url": "https://mobbin.com/screens/fdaac0b8-326b-4e3f-9223-08bf0b53858c?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Midjourney",
+      "platform": "web",
+      "file": "screen-3.webp"
+    },
+    {
+      "index": 1,
+      "id": "fa00ef21-990c-4f2d-be32-4423dffc14b3",
+      "image_url": "https://mobbin.com/api/mcp/short/cloBM10c",
+      "mobbin_url": "https://mobbin.com/screens/fa00ef21-990c-4f2d-be32-4423dffc14b3?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Midjourney",
+      "platform": "web",
+      "file": "screen-4.webp"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+:root {
+  --replit-canvas: #1e1e1e;
+  --replit-sidebar: #222222;
+  --replit-card: #242424;
+  --replit-border: #303030;
+  --replit-control-border: #454545;
+  --replit-text: #dedede;
+  --replit-muted: #a5a5a5;
+  --replit-hover: #2b2b2b;
+  --replit-primary: #0088ff;
+  --replit-primary-hover: #0077e0;
+  --replit-orange: #f36c00;
+  --replit-light-canvas: #f1f1ef;
+  --replit-light-surface: #f8f8f6;
+  --replit-light-border: #d9d9d3;
+  --replit-light-text: #262723;
+  --replit-light-muted: #696b65;
+  --replit-font: Inter, Arial, sans-serif;
+  --replit-mono: 'Courier New', monospace;
+  --replit-font-body: 12px;
+  --replit-font-caption: 10px;
+  --replit-font-heading: 22px;
+  --replit-radius-small: 5px;
+  --replit-radius-medium: 8px;
+  --replit-radius-card: 12px;
+  --replit-space-xs: 4px;
+  --replit-space-sm: 8px;
+  --replit-space-md: 16px;
+  --replit-space-lg: 24px;
+  --replit-sidebar-width: 202px;
+  --replit-agent-width: 380px;
+  --replit-rail-width: 38px;
+}

@@ -1,0 +1,24 @@
+{
+  "provider": "Mobbin MCP",
+  "retrieved_at": "2026-11-16",
+  "screens": [
+    {
+      "index": 0,
+      "id": "f4209d59-d8fa-4b08-9a03-636ae208187c",
+      "image_url": "https://mobbin.com/api/mcp/short/u6W1bMx4",
+      "mobbin_url": "https://mobbin.com/screens/f4209d59-d8fa-4b08-9a03-636ae208187c?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Runway",
+      "platform": "web",
+      "file": "screen-1.webp"
+    },
+    {
+      "index": 1,
+      "id": "efa0ce57-ed63-4e74-96b1-0c6adf1d8356",
+      "image_url": "https://mobbin.com/api/mcp/short/afN2ScqW",
+      "mobbin_url": "https://mobbin.com/screens/efa0ce57-ed63-4e74-96b1-0c6adf1d8356?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Runway",
+      "platform": "web",
+      "file": "screen-2.webp"
+    }
+  ]
+}

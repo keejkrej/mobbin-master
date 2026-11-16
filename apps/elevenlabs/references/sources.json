@@ -1,0 +1,24 @@
+{
+  "provider": "Mobbin MCP",
+  "retrieved_at": "2026-11-16",
+  "screens": [
+    {
+      "index": 0,
+      "id": "fe8dcb43-f770-4ade-894d-0e187d80b874",
+      "image_url": "https://mobbin.com/api/mcp/short/Lj1zcsyw",
+      "mobbin_url": "https://mobbin.com/screens/fe8dcb43-f770-4ade-894d-0e187d80b874?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "ElevenLabs",
+      "platform": "web",
+      "file": "screen-1.webp"
+    },
+    {
+      "index": 1,
+      "id": "fab28130-f253-4610-883d-370b7eb93121",
+      "image_url": "https://mobbin.com/api/mcp/short/Wetp7XRr",
+      "mobbin_url": "https://mobbin.com/screens/fab28130-f253-4610-883d-370b7eb93121?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "ElevenLabs",
+      "platform": "web",
+      "file": "screen-2.webp"
+    }
+  ]
+}

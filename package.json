@@ -2,7 +2,7 @@
   "name": "mobbin-design-studies",
   "version": "1.0.0",
   "private": true,
-  "description": "Eight interactive product studies with Mobbin references, inferred design systems and the Vercel UI SDK.",
+  "description": "Fourteen interactive product studies with Mobbin references, inferred design systems and the Vercel UI SDK.",
   "workspaces": [
     "apps/*",
     "packages/*"

@@ -1,0 +1,24 @@
+{
+  "provider": "Mobbin MCP",
+  "retrieved_at": "2026-11-16",
+  "screens": [
+    {
+      "index": 0,
+      "id": "fd30579f-5320-4c90-9310-1576ecd4dedf",
+      "image_url": "https://mobbin.com/api/mcp/short/VPlO3xRt",
+      "mobbin_url": "https://mobbin.com/screens/fd30579f-5320-4c90-9310-1576ecd4dedf?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Suno",
+      "platform": "web",
+      "file": "screen-1.webp"
+    },
+    {
+      "index": 1,
+      "id": "ee1453af-9d35-4929-a0fd-57f087455bc6",
+      "image_url": "https://mobbin.com/api/mcp/short/qohZHOhY",
+      "mobbin_url": "https://mobbin.com/screens/ee1453af-9d35-4929-a0fd-57f087455bc6?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Suno",
+      "platform": "web",
+      "file": "screen-2.webp"
+    }
+  ]
+}

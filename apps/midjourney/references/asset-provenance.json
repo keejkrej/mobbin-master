@@ -1,0 +1,486 @@
+[
+  {
+    "file": "artwork/tomatoes.webp",
+    "source": "references/screen-1.webp",
+    "crop": [
+      304,
+      342,
+      1187,
+      952
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/dogs.webp",
+    "source": "references/screen-2.webp",
+    "crop": [
+      344,
+      142,
+      1355,
+      1153
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-00.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      273,
+      197,
+      354,
+      278
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-01.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      357,
+      197,
+      438,
+      278
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-02.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      441,
+      197,
+      522,
+      278
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-03.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      525,
+      197,
+      606,
+      278
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-04.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      609,
+      197,
+      690,
+      278
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-05.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      692,
+      197,
+      773,
+      278
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-06.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      776,
+      197,
+      857,
+      278
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-07.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      860,
+      197,
+      941,
+      278
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-08.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      944,
+      197,
+      1025,
+      278
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-09.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      1028,
+      197,
+      1109,
+      278
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-10.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      1112,
+      197,
+      1193,
+      278
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-11.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      1196,
+      197,
+      1277,
+      278
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-12.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      1279,
+      197,
+      1360,
+      278
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-13.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      1363,
+      197,
+      1444,
+      278
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-14.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      1447,
+      197,
+      1528,
+      278
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-15.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      1531,
+      197,
+      1612,
+      278
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-16.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      273,
+      281,
+      354,
+      362
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-17.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      357,
+      281,
+      438,
+      362
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-18.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      441,
+      281,
+      522,
+      362
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-19.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      525,
+      281,
+      606,
+      362
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-20.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      609,
+      281,
+      690,
+      362
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-21.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      692,
+      281,
+      773,
+      362
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-22.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      776,
+      281,
+      857,
+      362
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-23.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      860,
+      281,
+      941,
+      362
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-24.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      944,
+      281,
+      1025,
+      362
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-25.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      1028,
+      281,
+      1109,
+      362
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-26.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      1112,
+      281,
+      1193,
+      362
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-27.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      1196,
+      281,
+      1277,
+      362
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-28.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      1279,
+      281,
+      1360,
+      362
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-29.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      1363,
+      281,
+      1444,
+      362
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-30.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      1447,
+      281,
+      1528,
+      362
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-31.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      1531,
+      281,
+      1612,
+      362
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-32.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      273,
+      365,
+      354,
+      446
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-33.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      357,
+      365,
+      438,
+      446
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-34.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      441,
+      365,
+      522,
+      446
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/grid-35.webp",
+    "source": "references/screen-3.webp",
+    "crop": [
+      525,
+      365,
+      606,
+      446
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/painting.webp",
+    "source": "references/screen-4.webp",
+    "crop": [
+      273,
+      868,
+      668,
+      1199
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/illustration.webp",
+    "source": "references/screen-4.webp",
+    "crop": [
+      673,
+      910,
+      1068,
+      1199
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/museum.webp",
+    "source": "references/screen-4.webp",
+    "crop": [
+      1074,
+      910,
+      1468,
+      1199
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/cat.webp",
+    "source": "references/screen-4.webp",
+    "crop": [
+      1473,
+      746,
+      1868,
+      1199
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/cyber-1.webp",
+    "source": "references/screen-4.webp",
+    "crop": [
+      549,
+      259,
+      650,
+      353
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  },
+  {
+    "file": "artwork/cyber-2.webp",
+    "source": "references/screen-4.webp",
+    "crop": [
+      659,
+      259,
+      758,
+      399
+    ],
+    "processing": "Rectangular crop only; no UI elements included."
+  }
+]
