@@ -1,0 +1,21 @@
+{
+  "retrievedAt": "2026-11-16",
+  "source": "Mobbin MCP",
+  "query": "Grok chat screen",
+  "screens": [
+    {
+      "id": "f8760136-ccfc-4d4c-868e-ca992d36fc4d",
+      "image_url": "https://mobbin.com/api/mcp/short/vCeLj6Ym",
+      "mobbin_url": "https://mobbin.com/screens/f8760136-ccfc-4d4c-868e-ca992d36fc4d?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Grok",
+      "platform": "web"
+    },
+    {
+      "id": "f5f415eb-08da-4177-a637-1ef54a2782ac",
+      "image_url": "https://mobbin.com/api/mcp/short/i68144QT",
+      "mobbin_url": "https://mobbin.com/screens/f5f415eb-08da-4177-a637-1ef54a2782ac?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Grok",
+      "platform": "web"
+    }
+  ]
+}

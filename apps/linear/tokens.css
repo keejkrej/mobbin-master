@@ -1,0 +1,37 @@
+:root {
+  --linear-canvas: #f3f3f3;
+  --linear-surface: #fdfdfd;
+  --linear-elevated: #ffffff;
+  --linear-hover: #eeeeef;
+  --linear-selected: #e6e6e7;
+  --linear-group: #f4f4f5;
+  --linear-border: #e9e9eb;
+  --linear-text: #17181a;
+  --linear-secondary: #626369;
+  --linear-muted: #92929b;
+  --linear-accent: #7275cf;
+  --linear-accent-hover: #6265bf;
+  --linear-done: #6870c8;
+  --linear-progress: #e9bc23;
+  --linear-teal: #23afc1;
+  --linear-radius-sm: 5px;
+  --linear-radius-md: 9px;
+  --linear-radius-lg: 14px;
+  --linear-radius-modal: 22px;
+  --linear-radius-pill: 999px;
+  --linear-space-1: 4px;
+  --linear-space-2: 8px;
+  --linear-space-3: 12px;
+  --linear-space-4: 16px;
+  --linear-space-6: 24px;
+  --linear-font: Arial, Helvetica, sans-serif;
+  --linear-font-xs: 11px;
+  --linear-font-sm: 12px;
+  --linear-font-base: 13px;
+  --linear-font-title: 22px;
+  --linear-sidebar: 232px;
+  --linear-header: 44px;
+  --linear-row: 42px;
+  --linear-shadow-popover: 0 4px 18px #00000018, 0 1px 4px #0000000a;
+  --linear-shadow-modal: 0 20px 70px #00000026;
+}

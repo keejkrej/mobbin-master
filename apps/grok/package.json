@@ -1,0 +1,19 @@
+{
+  "name": "@study/grok",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0 --port 3008",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0 --port 3008",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@study/ui": "*",
+    "next": "16.4.6",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "lucide-react": "^0.468.0",
+    "@fontsource/inter": "^5.2.8"
+  }
+}

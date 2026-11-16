@@ -1,0 +1,24 @@
+:root {
+  --airbnb-white: #ffffff;
+  --airbnb-ink: #222222;
+  --airbnb-muted: #6a6a6a;
+  --airbnb-brand: #ff385c;
+  --airbnb-brand-dark: #e31c5f;
+  --airbnb-surface: #f7f7f7;
+  --airbnb-border: #dddddd;
+  --airbnb-subtle-border: #ebebeb;
+  --airbnb-font: Arial, Helvetica, sans-serif;
+  --airbnb-space-1: 4px;
+  --airbnb-space-2: 8px;
+  --airbnb-space-3: 12px;
+  --airbnb-space-4: 16px;
+  --airbnb-space-5: 24px;
+  --airbnb-space-6: 32px;
+  --airbnb-space-7: 48px;
+  --airbnb-radius-card: 22px;
+  --airbnb-radius-control: 8px;
+  --airbnb-radius-modal: 26px;
+  --airbnb-radius-pill: 999px;
+  --airbnb-shadow-search: 0 3px 12px #0000001f;
+  --airbnb-shadow-popover: 0 4px 24px #00000026;
+}

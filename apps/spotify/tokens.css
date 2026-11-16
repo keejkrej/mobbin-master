@@ -1,0 +1,30 @@
+:root {
+  --sp-background: #000000;
+  --sp-surface: #121212;
+  --sp-surface-raised: #1f1f1f;
+  --sp-surface-hover: #2a2a2a;
+  --sp-surface-selected: #333333;
+  --sp-text: #ffffff;
+  --sp-text-secondary: #b3b3b3;
+  --sp-border: #303030;
+  --sp-accent: #1ed760;
+  --sp-accent-hover: #3be477;
+  --sp-track: #535353;
+  --sp-font: Arial, Helvetica, sans-serif;
+  --sp-radius-panel: 8px;
+  --sp-radius-card: 8px;
+  --sp-radius-pill: 999px;
+  --sp-space-1: 4px;
+  --sp-space-2: 8px;
+  --sp-space-3: 12px;
+  --sp-space-4: 16px;
+  --sp-space-6: 24px;
+  --sp-space-8: 32px;
+  --sp-type-small: 12px;
+  --sp-type-body: 14px;
+  --sp-type-medium: 16px;
+  --sp-type-large: 24px;
+  --sp-header-height: 64px;
+  --sp-player-height: 88px;
+  --sp-motion-fast: 140ms;
+}

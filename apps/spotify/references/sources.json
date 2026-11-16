@@ -1,0 +1,34 @@
+{
+  "retrievedAt": "2026-11-16",
+  "source": "Mobbin MCP",
+  "screens": [
+    {
+      "id": "ff9901a2-78b3-44fb-a2ab-4125118089bc",
+      "image_url": "https://mobbin.com/api/mcp/short/CCp3oZb3",
+      "mobbin_url": "https://mobbin.com/screens/ff9901a2-78b3-44fb-a2ab-4125118089bc?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Spotify",
+      "platform": "web"
+    },
+    {
+      "id": "fd00bec6-299f-4a82-9b99-448f679233cc",
+      "image_url": "https://mobbin.com/api/mcp/short/XwEatStU",
+      "mobbin_url": "https://mobbin.com/screens/fd00bec6-299f-4a82-9b99-448f679233cc?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Spotify",
+      "platform": "web"
+    },
+    {
+      "id": "f57cdb1b-d7af-416a-be72-b5d6d9b13fad",
+      "image_url": "https://mobbin.com/api/mcp/short/YPRWcz8p",
+      "mobbin_url": "https://mobbin.com/screens/f57cdb1b-d7af-416a-be72-b5d6d9b13fad?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Spotify",
+      "platform": "web"
+    },
+    {
+      "id": "f0891c7f-4e2e-4423-8e35-c1dcd83e67bf",
+      "image_url": "https://mobbin.com/api/mcp/short/QWW7t3ee",
+      "mobbin_url": "https://mobbin.com/screens/f0891c7f-4e2e-4423-8e35-c1dcd83e67bf?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Spotify",
+      "platform": "web"
+    }
+  ]
+}
