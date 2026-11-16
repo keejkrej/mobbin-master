@@ -1,0 +1,54 @@
+{
+  "retrieved_at": "2026-11-16",
+  "background": {
+    "method": "Clean artwork crops only, composed over a CSS sky gradient. No UI controls, headline, or Mobbin footer included. Not the original full background asset.",
+    "source": "https://mobbin.com/sites/sections/f11b7c73-1f62-4c2e-a5c1-bf117f99dcd5",
+    "source_dimensions": [
+      1920,
+      1320
+    ],
+    "crops": {
+      "forest-left.webp": [
+        0,
+        115,
+        400,
+        1080
+      ],
+      "forest-right.webp": [
+        1500,
+        115,
+        1920,
+        1080
+      ],
+      "valley.webp": [
+        0,
+        820,
+        1920,
+        1080
+      ],
+      "customer-logos.webp": [
+        514,
+        1074,
+        1405,
+        1133
+      ]
+    },
+    "customer_logo_display": "CSS grayscale, brightness, contrast, and screen blending suppress the photographed backdrop without raster editing."
+  },
+  "official_assets": [
+    {
+      "file": "giga-logo-white.svg",
+      "url": "https://giga.ai/design/brand/giga-logo-white.svg"
+    },
+    {
+      "file": "giga-mark-white.svg",
+      "url": "https://giga.ai/design/brand/giga-mark-white.svg"
+    },
+    {
+      "file": "geist-pixel-line.woff2",
+      "url": "https://giga.ai/_next/static/media/geist_pixel_line-s.p.1gvmpev-r-ty_.woff2",
+      "use": "Pixel typeface observed in the newer voice and conversation sections, current official public font asset."
+    }
+  ],
+  "notes": "Official https://giga.ai/ and https://giga.ai/design/ inspected. They show a newer identity, without the older forest backdrop. The current mark is used in this local study."
+}

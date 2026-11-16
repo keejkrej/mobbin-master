@@ -1,0 +1,33 @@
+:root {
+  --giga-primary: #ffffff;
+  --giga-ink: #101514;
+  --giga-canvas: #041326;
+  --giga-text: #eff3f4;
+  --giga-muted: #aeb9c4;
+  --giga-border: #344354;
+  --giga-sky: #4c6c7c;
+  --giga-horizon: #a59b96;
+  --giga-forest: #0b1618;
+  --giga-blue: #31a8e8;
+  --giga-violet: #703b80;
+  --giga-rust: #8b4d3a;
+  --giga-phone: #695047;
+  --giga-bubble: #101e2e;
+  --giga-danger: #ff333c;
+  --giga-success: #287954;
+  --giga-sans: Inter, Arial, sans-serif;
+  --giga-serif: Georgia, 'Times New Roman', serif;
+  --giga-pixel: 'Geist Pixel Line', 'Courier New', monospace;
+  --giga-mono: 'Courier New', monospace;
+  --giga-heading: clamp(42px, 4.6vw, 88px);
+  --giga-section-heading: clamp(32px, 3.2vw, 58px);
+  --giga-body: 15px;
+  --giga-radius-small: 8px;
+  --giga-radius-card: 20px;
+  --giga-radius-full: 999px;
+  --giga-space-xs: 4px;
+  --giga-space-small: 8px;
+  --giga-space-base: 16px;
+  --giga-space-large: 24px;
+  --giga-gutter: 3vw;
+}

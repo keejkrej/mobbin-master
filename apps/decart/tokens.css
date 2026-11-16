@@ -1,0 +1,21 @@
+:root {
+  --color-primary: #2548f6;
+  --color-primary-hover: #193bd8;
+  --color-text: #101010;
+  --color-muted: #656565;
+  --color-surface: #ffffff;
+  --color-subtle: #f5f5f5;
+  --color-ice: #eff7ff;
+  --color-footer: #22222c;
+  --color-line: #dedee2;
+  --font-sans: Arial, Helvetica, sans-serif;
+  --radius-small: 12px;
+  --radius-card: 56px;
+  --radius-pill: 9999px;
+  --space-xs: 8px;
+  --space-sm: 16px;
+  --space-md: 24px;
+  --space-lg: 40px;
+  --space-xl: 64px;
+  --space-section: 140px;
+}

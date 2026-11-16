@@ -1,0 +1,135 @@
+{
+  "method": "Rectangular crops of original reference content, re-encoded as WebP quality95. UI is rebuilt as HTML, CSS, and SVG.",
+  "assets": [
+    {
+      "file": "public/media/truck-sketch.webp",
+      "source": "references/section-1.webp",
+      "box_xyxy": [
+        163,
+        163,
+        519,
+        391
+      ],
+      "description": "Truck sketch content image",
+      "width": 356,
+      "height": 228
+    },
+    {
+      "file": "public/media/desert.webp",
+      "source": "references/section-1.webp",
+      "box_xyxy": [
+        163,
+        647,
+        519,
+        875
+      ],
+      "description": "Desert source photograph",
+      "width": 356,
+      "height": 228
+    },
+    {
+      "file": "public/media/photoshoot.webp",
+      "source": "references/section-1.webp",
+      "box_xyxy": [
+        783,
+        191,
+        1139,
+        419
+      ],
+      "description": "Car photoshoot result",
+      "width": 356,
+      "height": 228
+    },
+    {
+      "file": "public/media/truck-motion.webp",
+      "source": "references/section-1.webp",
+      "box_xyxy": [
+        1258,
+        432,
+        1890,
+        838
+      ],
+      "description": "Truck handheld video still",
+      "width": 632,
+      "height": 406
+    },
+    {
+      "file": "public/media/founder.webp",
+      "source": "references/section-2.webp",
+      "box_xyxy": [
+        416,
+        555,
+        1506,
+        1167
+      ],
+      "description": "Founder video still, includes original burned-in subtitle",
+      "width": 1090,
+      "height": 612
+    },
+    {
+      "file": "public/media/avatar-1.webp",
+      "source": "references/section-3.webp",
+      "box_xyxy": [
+        795,
+        515,
+        830,
+        552
+      ],
+      "description": "Team member avatar content image",
+      "width": 35,
+      "height": 37
+    },
+    {
+      "file": "public/media/avatar-2.webp",
+      "source": "references/section-3.webp",
+      "box_xyxy": [
+        795,
+        561,
+        830,
+        598
+      ],
+      "description": "Team member avatar content image",
+      "width": 35,
+      "height": 37
+    },
+    {
+      "file": "public/media/avatar-3.webp",
+      "source": "references/section-3.webp",
+      "box_xyxy": [
+        795,
+        607,
+        830,
+        644
+      ],
+      "description": "Team member avatar content image",
+      "width": 35,
+      "height": 37
+    },
+    {
+      "file": "public/media/avatar-4.webp",
+      "source": "references/section-3.webp",
+      "box_xyxy": [
+        795,
+        653,
+        830,
+        690
+      ],
+      "description": "Team member avatar content image",
+      "width": 35,
+      "height": 37
+    },
+    {
+      "file": "public/media/avatar-5.webp",
+      "source": "references/section-3.webp",
+      "box_xyxy": [
+        795,
+        699,
+        830,
+        736
+      ],
+      "description": "Team member avatar content image",
+      "width": 35,
+      "height": 37
+    }
+  ]
+}

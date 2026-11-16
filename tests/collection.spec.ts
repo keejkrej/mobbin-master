@@ -11,11 +11,20 @@ test('collection: all studies are reachable and search combines with collection 
   }
   await page.getByRole('button', { name: 'Latest' }).click();
   const latestEdition = Math.max(...studies.map(study => study.edition));
-  await expect(cards).toHaveCount(studies.filter(study => study.edition === latestEdition).length);
+  const latest = studies.filter(study => study.edition === latestEdition);
+  await expect(cards).toHaveCount(latest.length);
   const search = page.getByRole('searchbox', { name: 'Find a study' });
-  await search.fill('Gumloop');
+  await search.fill(latest[0].name);
   await expect(cards).toHaveCount(1);
-  await expect(cards).toContainText('Gumloop');
+  await expect(cards).toContainText(latest[0].name);
+  await search.fill('Suno');
+  await expect(page.getByText('No studies match your search.')).toBeVisible();
+  await search.clear();
+  await page.getByRole('button', { name: 'Websites' }).click();
+  const websites = studies.filter(study => 'surface' in study && study.surface === 'website');
+  await expect(cards).toHaveCount(websites.length);
+  await search.fill(websites[0].name);
+  await expect(cards).toHaveCount(1);
   await search.fill('Suno');
   await expect(page.getByText('No studies match your search.')).toBeVisible();
   await search.clear();

@@ -218,5 +218,77 @@
     "states": "Home · Builder · Preview",
     "ai": true,
     "edition": 3
+  },
+  {
+    "slug": "flora",
+    "name": "FLORA",
+    "category": "AI CREATIVE WEBSITE",
+    "description": "A connected canvas for creative exploration.",
+    "color": "#343434",
+    "glyph": "✳",
+    "states": "Canvas · Teams · Demo",
+    "ai": true,
+    "edition": 4,
+    "surface": "website"
+  },
+  {
+    "slug": "cartesia",
+    "name": "Cartesia",
+    "category": "AI RESEARCH WEBSITE",
+    "description": "Green illustrations meet a new voice for AI.",
+    "color": "#2d8754",
+    "glyph": "↗",
+    "states": "Models · Voice demo · Contact",
+    "ai": true,
+    "edition": 4,
+    "surface": "website"
+  },
+  {
+    "slug": "giga",
+    "name": "Giga",
+    "category": "AI VOICE WEBSITE",
+    "description": "A cinematic landscape for human conversation.",
+    "color": "#547580",
+    "glyph": "◕",
+    "states": "Home · Voice demo · Contact",
+    "ai": true,
+    "edition": 4,
+    "surface": "website"
+  },
+  {
+    "slug": "contra-labs",
+    "name": "Contra Labs",
+    "category": "AI RESEARCH WEBSITE",
+    "description": "Human taste, woven into creative AI.",
+    "color": "#67aa9e",
+    "glyph": "✧",
+    "states": "Research · FAQ · Apply",
+    "ai": true,
+    "edition": 4,
+    "surface": "website"
+  },
+  {
+    "slug": "decart",
+    "name": "Decart",
+    "category": "AI RESEARCH WEBSITE",
+    "description": "Live intelligence in electric blue.",
+    "color": "#254cfa",
+    "glyph": "D",
+    "states": "Models · Demo · Contact",
+    "ai": true,
+    "edition": 4,
+    "surface": "website"
+  },
+  {
+    "slug": "general-intuition",
+    "name": "General Intuition",
+    "category": "AI RESEARCH WEBSITE",
+    "description": "Intelligence that moves through space and time.",
+    "color": "#303239",
+    "glyph": "GI",
+    "states": "Research · Demo · Careers",
+    "ai": true,
+    "edition": 4,
+    "surface": "website"
   }
 ]

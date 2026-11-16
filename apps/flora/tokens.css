@@ -1,0 +1,7 @@
+:root {
+ --canvas:#000000; --surface:#171717; --surface-raised:#202020; --primary:#ffffff; --text:#f5f5f5; --muted:#b0b0b0; --subtle:#8a8a8a; --border:#303030; --grid:#151515; --new:#a5d8ae;
+ --pink:#f391a6; --mint:#75d9bd; --gold:#f6c54c; --focus:#d9e9d9;
+ --radius-small:10px; --radius-medium:16px; --radius-large:24px; --radius-full:999px;
+ --space-xs:4px; --space-small:8px; --space-base:16px; --space-large:24px; --space-wide:48px;
+ --header-height:68px; --content-width:1182px; --grid-step:14px;
+}
