@@ -1,0 +1,47 @@
+{
+  "product": "Bolt.new",
+  "downloaded_on": "2026-11-16",
+  "source": "Mobbin MCP",
+  "output_destination": "code",
+  "output_tool": "Next.js",
+  "task_intent": "Expand an interactive Next.js design-system collection with newer AI-startup interfaces grounded in Mobbin references.",
+  "queries": [
+    "Bolt AI app builder screen",
+    "Bolt.new project preview"
+  ],
+  "references": [
+    {
+      "id": "05bdef65-e214-4022-a52c-db3aa256d2ec",
+      "image_url": "https://mobbin.com/api/mcp/short/12PEpCVt",
+      "mobbin_url": "https://mobbin.com/screens/05bdef65-e214-4022-a52c-db3aa256d2ec?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Bolt.new",
+      "platform": "web",
+      "file": "screen-1.webp",
+      "observed_state": "Prompt home with invitation toast",
+      "width": 1920,
+      "height": 1320
+    },
+    {
+      "id": "b2e0686a-c322-42fd-9aec-066225463ac3",
+      "image_url": "https://mobbin.com/api/mcp/short/ueVMVUf1",
+      "mobbin_url": "https://mobbin.com/screens/b2e0686a-c322-42fd-9aec-066225463ac3?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Bolt.new",
+      "platform": "web",
+      "file": "screen-2.webp",
+      "observed_state": "Populated composer and attachment",
+      "width": 1920,
+      "height": 1320
+    },
+    {
+      "id": "f87f1d94-ab7c-4a89-8089-f7fd6eaaa490",
+      "image_url": "https://mobbin.com/api/mcp/short/lS7nFD1c",
+      "mobbin_url": "https://mobbin.com/screens/f87f1d94-ab7c-4a89-8089-f7fd6eaaa490?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Bolt.new",
+      "platform": "web",
+      "file": "screen-3.webp",
+      "observed_state": "Builder split view with preview and rename popover",
+      "width": 1920,
+      "height": 1320
+    }
+  ]
+}

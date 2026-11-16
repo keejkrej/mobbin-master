@@ -1,0 +1,16 @@
+:root {
+ --gamma-chrome: #ffffff;
+ --gamma-ink: #09244b;
+ --gamma-muted: #7e8a98;
+ --gamma-line: #e3e8ee;
+ --gamma-blue: #0646ad;
+ --gamma-hover: #f0f5fb;
+ --gamma-card: #fff8ef;
+ --gamma-card-ink: #2b4141;
+ --gamma-orange: #c7610a;
+ --gamma-workspace: #eef1c2;
+ --gamma-shadow: 0 6px 18px #1e36551a;
+ --gamma-font: Inter, Arial, sans-serif;
+ --gamma-topbar: 50px;
+ --gamma-card-radius: 37px;
+}

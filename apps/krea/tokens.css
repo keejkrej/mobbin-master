@@ -1,0 +1,25 @@
+:root {
+  --krea-canvas: #ffffff;
+  --krea-text: #080808;
+  --krea-surface: #f4f4f4;
+  --krea-muted: #8e8e8e;
+  --krea-border: #ececec;
+  --krea-primary: #ffffff;
+  --krea-on-primary: #080808;
+  --krea-video: #f7a600;
+  --krea-blue: #0877f9;
+  --krea-dark-canvas: #111111;
+  --krea-dark-surface: #202020;
+  --krea-dark-chip: #303030;
+  --krea-font: Arial, Helvetica, sans-serif;
+  --krea-radius-small: 10px;
+  --krea-radius-medium: 16px;
+  --krea-radius-large: 24px;
+  --krea-radius-pill: 999px;
+  --krea-space-1: 4px;
+  --krea-space-2: 8px;
+  --krea-space-3: 12px;
+  --krea-space-4: 16px;
+  --krea-space-6: 24px;
+  --krea-space-8: 32px;
+}

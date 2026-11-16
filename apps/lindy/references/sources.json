@@ -1,0 +1,24 @@
+{
+  "provider": "Mobbin MCP",
+  "retrieved_at": "2026-11-16",
+  "screens": [
+    {
+      "index": 0,
+      "id": "f7af1e0d-756c-4eee-b1fe-43043c2d07b1",
+      "image_url": "https://mobbin.com/api/mcp/short/wAjS6ApZ",
+      "mobbin_url": "https://mobbin.com/screens/f7af1e0d-756c-4eee-b1fe-43043c2d07b1?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Lindy",
+      "platform": "web",
+      "file": "screen-1.webp"
+    },
+    {
+      "index": 1,
+      "id": "edf04858-7158-4622-b420-97dea2e7737a",
+      "image_url": "https://mobbin.com/api/mcp/short/TaQJd1GY",
+      "mobbin_url": "https://mobbin.com/screens/edf04858-7158-4622-b420-97dea2e7737a?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Lindy",
+      "platform": "web",
+      "file": "screen-2.webp"
+    }
+  ]
+}

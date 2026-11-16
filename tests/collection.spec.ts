@@ -1,7 +1,7 @@
 import { test, expect, assertNoHorizontalOverflow } from './fixtures';
 import studies from '../collection.json';
 
-test('collection: all studies are reachable and search combines with the AI filter', async ({ page }) => {
+test('collection: all studies are reachable and search combines with collection filters', async ({ page }) => {
   const response = await page.goto('/');
   expect(response?.status()).toBe(200);
   const cards = page.locator('.card:visible');
@@ -9,9 +9,18 @@ test('collection: all studies are reachable and search combines with the AI filt
   for (const study of studies) {
     await expect(page.locator(`.card[href="/${study.slug}/"]`)).toContainText(study.name);
   }
+  await page.getByRole('button', { name: 'Latest' }).click();
+  const latestEdition = Math.max(...studies.map(study => study.edition));
+  await expect(cards).toHaveCount(studies.filter(study => study.edition === latestEdition).length);
+  const search = page.getByRole('searchbox', { name: 'Find a study' });
+  await search.fill('Gumloop');
+  await expect(cards).toHaveCount(1);
+  await expect(cards).toContainText('Gumloop');
+  await search.fill('Suno');
+  await expect(page.getByText('No studies match your search.')).toBeVisible();
+  await search.clear();
   await page.getByRole('button', { name: 'AI products' }).click();
   await expect(cards).toHaveCount(studies.filter(study => study.ai).length);
-  const search = page.getByRole('searchbox', { name: 'Find a study' });
   await search.fill('Suno');
   await expect(cards).toHaveCount(1);
   await expect(cards).toContainText('Suno');

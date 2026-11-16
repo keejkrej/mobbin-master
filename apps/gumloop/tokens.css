@@ -1,0 +1,24 @@
+:root {
+  --gum-primary: #282828;
+  --gum-primary-hover: #414141;
+  --gum-canvas: #fdfdfd;
+  --gum-sidebar: #f9f9f9;
+  --gum-surface: #ffffff;
+  --gum-text: #111214;
+  --gum-muted: #737780;
+  --gum-border: #e4e4e4;
+  --gum-selected: #f1f1f1;
+  --gum-pink: #f32d9a;
+  --gum-green: #57d98b;
+  --gum-green-soft: #e3fced;
+  --gum-save: #ffebca;
+  --gum-save-text: #97631e;
+  --gum-credit: #009aff;
+  --gum-font: 'Inter', Arial, sans-serif;
+  --gum-sidebar-width: 244px;
+  --gum-chat-width: 500px;
+  --gum-radius-sm: 6px;
+  --gum-radius-md: 10px;
+  --gum-radius-lg: 18px;
+  --gum-shadow: 0 2px 5px #0000000d;
+}

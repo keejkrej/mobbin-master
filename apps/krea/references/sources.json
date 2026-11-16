@@ -1,0 +1,24 @@
+{
+  "provider": "Mobbin MCP",
+  "retrieved_at": "2026-11-16",
+  "screens": [
+    {
+      "index": 0,
+      "id": "fda34297-9d04-46ce-9b59-43d29ed9c4f4",
+      "image_url": "https://mobbin.com/api/mcp/short/Ijq6B5i7",
+      "mobbin_url": "https://mobbin.com/screens/fda34297-9d04-46ce-9b59-43d29ed9c4f4?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Krea AI",
+      "platform": "web",
+      "file": "screen-1.webp"
+    },
+    {
+      "index": 1,
+      "id": "f9a274ad-c0ca-460a-b591-fe1fd5bd7da9",
+      "image_url": "https://mobbin.com/api/mcp/short/PdzV8iLK",
+      "mobbin_url": "https://mobbin.com/screens/f9a274ad-c0ca-460a-b591-fe1fd5bd7da9?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Krea AI",
+      "platform": "web",
+      "file": "screen-2.webp"
+    }
+  ]
+}
