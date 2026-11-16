@@ -1,0 +1,18 @@
+{
+  "source": "Mobbin screenshot inference",
+  "retrievedAt": "2026-11-16",
+  "status": "inferred; not official",
+  "tokens": {
+    "canvas": "#f7f7f7",
+    "sidebar": "#f3f3f3",
+    "surface": "#fdfdfd",
+    "text": "#303030",
+    "muted": "#858585",
+    "border": "#e9e9e9",
+    "accent": "#2d8d76",
+    "composerRadius": "12px",
+    "sidebarWidth": "280px",
+    "composerMaxWidth": "640px",
+    "font": "Inter, Arial, sans-serif"
+  }
+}

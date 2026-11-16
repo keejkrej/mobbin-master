@@ -1,0 +1,21 @@
+:root {
+  --gpt-canvas: #ffffff;
+  --gpt-sidebar: #f9f9f9;
+  --gpt-surface: #f5f5f5;
+  --gpt-hover: #ececec;
+  --gpt-ink: #0d0d0d;
+  --gpt-muted: #676767;
+  --gpt-faint: #8f8f8f;
+  --gpt-border: #e5e5e5;
+  --gpt-blue: #0285ff;
+  --gpt-plus: #6354bd;
+  --gpt-plus-surface: #f3f1fb;
+  --gpt-radius-sm: 8px;
+  --gpt-radius-md: 12px;
+  --gpt-radius-lg: 24px;
+  --gpt-radius-pill: 999px;
+  --gpt-sidebar-width: 264px;
+  --gpt-content-width: 780px;
+  --gpt-font: Arial, Helvetica, sans-serif;
+  --gpt-shadow: 0 2px 5px #00000008;
+}

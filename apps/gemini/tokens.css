@@ -1,0 +1,34 @@
+:root {
+  --gemini-primary: #232625;
+  --gemini-secondary: #696c6e;
+  --gemini-canvas: #fdfdfd;
+  --gemini-surface: #ffffff;
+  --gemini-selected: #f0eeee;
+  --gemini-border: #e6e6e6;
+  --gemini-glow: #c2e4fc;
+  --gemini-temporary-glow: #dededc;
+  --gemini-focus: #0b57d0;
+  --gemini-blue: #4285f4;
+  --gemini-red: #ea4335;
+  --gemini-yellow: #fbbc05;
+  --gemini-green: #34a853;
+  --gemini-font: "Inter", Arial, sans-serif;
+  --gemini-heading-size: 36px;
+  --gemini-body-size: 16px;
+  --gemini-label-size: 14px;
+  --gemini-caption-size: 12px;
+  --gemini-composer-size: 17px;
+  --gemini-radius-sm: 8px;
+  --gemini-radius-md: 16px;
+  --gemini-radius-lg: 24px;
+  --gemini-radius-full: 999px;
+  --gemini-space-xs: 4px;
+  --gemini-space-sm: 8px;
+  --gemini-space-md: 16px;
+  --gemini-space-lg: 24px;
+  --gemini-space-xl: 32px;
+  --gemini-sidebar: 280px;
+  --gemini-rail: 56px;
+  --gemini-composer: 672px;
+  --gemini-control: 36px;
+}

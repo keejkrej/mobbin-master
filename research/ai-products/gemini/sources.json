@@ -1,0 +1,21 @@
+{
+  "retrievedAt": "2026-11-16",
+  "source": "Mobbin MCP",
+  "query": "Google Gemini AI assistant conversation",
+  "screens": [
+    {
+      "id": "f3b9012f-3f75-433b-a9e0-c70c2a39e9bc",
+      "image_url": "https://mobbin.com/api/mcp/short/Fr5xnNqx",
+      "mobbin_url": "https://mobbin.com/screens/f3b9012f-3f75-433b-a9e0-c70c2a39e9bc?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Google Gemini",
+      "platform": "web"
+    },
+    {
+      "id": "eeb82ce8-837a-4e5c-8364-621c22334f11",
+      "image_url": "https://mobbin.com/api/mcp/short/luAKTKy1",
+      "mobbin_url": "https://mobbin.com/screens/eeb82ce8-837a-4e5c-8364-621c22334f11?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Google Gemini",
+      "platform": "web"
+    }
+  ]
+}

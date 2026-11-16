@@ -1,0 +1,27 @@
+{
+  "retrievedAt": "2026-11-16",
+  "source": "Mobbin MCP",
+  "screens": [
+    {
+      "id": "ffa2e456-85c7-4005-b361-de79dc6b6dc7",
+      "image_url": "https://mobbin.com/api/mcp/short/Gz9fGulv",
+      "mobbin_url": "https://mobbin.com/screens/ffa2e456-85c7-4005-b361-de79dc6b6dc7?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Linear",
+      "platform": "web"
+    },
+    {
+      "id": "fd1b4d88-f021-49a3-98af-4cd3a87e1d29",
+      "image_url": "https://mobbin.com/api/mcp/short/0U53aycY",
+      "mobbin_url": "https://mobbin.com/screens/fd1b4d88-f021-49a3-98af-4cd3a87e1d29?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Linear",
+      "platform": "web"
+    },
+    {
+      "id": "ef923b0e-9a40-4fdd-80f2-f3aafb4f36ce",
+      "image_url": "https://mobbin.com/api/mcp/short/G4wRwIuN",
+      "mobbin_url": "https://mobbin.com/screens/ef923b0e-9a40-4fdd-80f2-f3aafb4f36ce?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Linear",
+      "platform": "web"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "retrievedAt": "2026-11-16",
+  "source": "Mobbin MCP",
+  "query": "ChatGPT chat screen",
+  "screens": [
+    {
+      "id": "fc303bbc-5d5f-4ffc-b3ce-065abc9693bc",
+      "image_url": "https://mobbin.com/api/mcp/short/jQN6M926",
+      "mobbin_url": "https://mobbin.com/screens/fc303bbc-5d5f-4ffc-b3ce-065abc9693bc?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "ChatGPT",
+      "platform": "web"
+    },
+    {
+      "id": "fa707eb9-8ecd-48e1-b94d-647c03a08bc6",
+      "image_url": "https://mobbin.com/api/mcp/short/Hag7UhcW",
+      "mobbin_url": "https://mobbin.com/screens/fa707eb9-8ecd-48e1-b94d-647c03a08bc6?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "ChatGPT",
+      "platform": "web"
+    },
+    {
+      "id": "f9fa472b-1f11-45f1-9132-019c2501f56d",
+      "image_url": "https://mobbin.com/api/mcp/short/MtCvPOb2",
+      "mobbin_url": "https://mobbin.com/screens/f9fa472b-1f11-45f1-9132-019c2501f56d?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "ChatGPT",
+      "platform": "web"
+    }
+  ]
+}
