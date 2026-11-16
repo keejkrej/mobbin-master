@@ -1,0 +1,24 @@
+{
+  "provider": "Mobbin MCP",
+  "retrieved_at": "2026-11-16",
+  "screens": [
+    {
+      "index": 0,
+      "id": "f5c6b812-dc94-425d-9c3d-2975f5157fed",
+      "image_url": "https://mobbin.com/api/mcp/short/V07absjX",
+      "mobbin_url": "https://mobbin.com/screens/f5c6b812-dc94-425d-9c3d-2975f5157fed?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Gumloop",
+      "platform": "web",
+      "file": "screen-1.webp"
+    },
+    {
+      "index": 1,
+      "id": "f4eba594-6b71-412b-ba81-075e265349e4",
+      "image_url": "https://mobbin.com/api/mcp/short/do6U74uK",
+      "mobbin_url": "https://mobbin.com/screens/f4eba594-6b71-412b-ba81-075e265349e4?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Gumloop",
+      "platform": "web",
+      "file": "screen-2.webp"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+:root {
+  --lindy-text: #171b1d;
+  --lindy-muted: #797e81;
+  --lindy-canvas: #ffffff;
+  --lindy-sidebar: #ffffff;
+  --lindy-hover: #f3f4f5;
+  --lindy-border: #e4e5e7;
+  --lindy-primary: #0097fa;
+  --lindy-primary-hover: #0085dc;
+  --lindy-send: #98b2ff;
+  --lindy-purple: #7352d5;
+  --lindy-purple-surface: #f0ebff;
+  --lindy-green: #2bb86f;
+  --lindy-blue: #4587d8;
+  --lindy-warm: #fff3cf;
+  --lindy-peach: #fbefe4;
+  --lindy-flow: #fafbfc;
+  --lindy-selected: #e6f9fd;
+  --lindy-selected-border: #339cb2;
+  --lindy-sans: Inter, Arial, sans-serif;
+  --lindy-mono: 'Courier New', monospace;
+  --lindy-sidebar-width: 242px;
+  --lindy-inspector-width: 380px;
+  --lindy-builder-width: 380px;
+  --lindy-font-body: 14px;
+  --lindy-font-label: 13px;
+  --lindy-font-caption: 11px;
+  --lindy-font-heading: 32px;
+  --lindy-radius-sm: 6px;
+  --lindy-radius-md: 10px;
+  --lindy-radius-lg: 15px;
+  --lindy-radius-pill: 999px;
+  --lindy-space-xs: 4px;
+  --lindy-space-sm: 8px;
+  --lindy-space-md: 16px;
+  --lindy-space-lg: 24px;
+  --lindy-shadow-composer: 0 5px 4px #251b1012, 0 8px 18px #251b1008;
+}

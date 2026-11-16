@@ -8,11 +8,15 @@ const mime = { ".html": "text/html; charset=utf-8", ".css": "text/css", ".js": "
 const server = createServer(async (req, res) => {
   try {
     const pathname = decodeURIComponent(new URL(req.url || "/", "http://localhost").pathname);
-    let target = path.resolve(root, "." + pathname);
-    if (target !== root && !target.startsWith(root + path.sep)) { res.writeHead(403); return res.end(); }
-    let info;
-    try { info = await stat(target); } catch { target += ".html"; info = await stat(target); }
-    if (info.isDirectory()) target = path.join(target, "index.html");
+    const requested = path.resolve(root, "." + pathname);
+    if (requested !== root && !requested.startsWith(root + path.sep)) { res.writeHead(403); return res.end(); }
+    // Next can emit route.html beside a route/ directory containing RSC files.
+    // Prefer an actual index, then try the sibling HTML when that index is absent.
+    let target;
+    for (const candidate of [requested, path.join(requested, "index.html"), requested + ".html"]) {
+      try { if ((await stat(candidate)).isFile()) { target = candidate; break; } } catch {}
+    }
+    if (!target) throw new Error("Exported page not found");
     const body = await readFile(target);
     res.writeHead(200, { "Content-Type": mime[path.extname(target)] || "application/octet-stream", "Cache-Control": "no-cache" });
     res.end(req.method === "HEAD" ? undefined : body);

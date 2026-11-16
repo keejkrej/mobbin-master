@@ -1,0 +1,47 @@
+{
+  "product": "Lovable",
+  "downloaded_on": "2026-11-16",
+  "source": "Mobbin MCP",
+  "output_destination": "code",
+  "output_tool": "Next.js",
+  "task_intent": "Expand an interactive Next.js design-system collection with newer AI-startup interfaces grounded in Mobbin references.",
+  "queries": [
+    "Lovable project builder screen",
+    "Lovable project dashboard"
+  ],
+  "references": [
+    {
+      "id": "eec89469-5d45-4f53-861d-a1cbf1db6f82",
+      "image_url": "https://mobbin.com/api/mcp/short/vWQ0ONuP",
+      "mobbin_url": "https://mobbin.com/screens/eec89469-5d45-4f53-861d-a1cbf1db6f82?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Lovable",
+      "platform": "web",
+      "file": "screen-1.webp",
+      "observed_state": "Builder with portfolio preview and tools menu",
+      "width": 1920,
+      "height": 1325
+    },
+    {
+      "id": "fbc4ad2b-8b0a-4c70-840b-8497f8c6138e",
+      "image_url": "https://mobbin.com/api/mcp/short/BqfWm6xT",
+      "mobbin_url": "https://mobbin.com/screens/fbc4ad2b-8b0a-4c70-840b-8497f8c6138e?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Lovable",
+      "platform": "web",
+      "file": "screen-2.webp",
+      "observed_state": "Home with inbox invitations open",
+      "width": 1920,
+      "height": 1325
+    },
+    {
+      "id": "fe7d5eb7-b6fd-4928-bcdf-a150749e9e74",
+      "image_url": "https://mobbin.com/api/mcp/short/GbingQvp",
+      "mobbin_url": "https://mobbin.com/screens/fe7d5eb7-b6fd-4928-bcdf-a150749e9e74?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Lovable",
+      "platform": "web",
+      "file": "screen-3.webp",
+      "observed_state": "Project settings dialog",
+      "width": 1920,
+      "height": 1325
+    }
+  ]
+}

@@ -7,7 +7,8 @@
     "color": "#6767d9",
     "glyph": "◒",
     "states": "Issues · Detail · Create",
-    "ai": false
+    "ai": false,
+    "edition": 1
   },
   {
     "slug": "spotify",
@@ -17,7 +18,8 @@
     "color": "#1ed760",
     "glyph": "≋",
     "states": "Playlist · Album · Lyrics",
-    "ai": false
+    "ai": false,
+    "edition": 1
   },
   {
     "slug": "airbnb",
@@ -27,7 +29,8 @@
     "color": "#ff385c",
     "glyph": "⌂",
     "states": "Explore · Stay · Saved",
-    "ai": false
+    "ai": false,
+    "edition": 1
   },
   {
     "slug": "chatgpt",
@@ -37,7 +40,8 @@
     "color": "#34836d",
     "glyph": "✺",
     "states": "New chat · Conversation · History",
-    "ai": true
+    "ai": true,
+    "edition": 1
   },
   {
     "slug": "claude",
@@ -47,7 +51,8 @@
     "color": "#c97555",
     "glyph": "✳",
     "states": "Chats · Conversation · New chat",
-    "ai": true
+    "ai": true,
+    "edition": 1
   },
   {
     "slug": "gemini",
@@ -57,7 +62,8 @@
     "color": "#4385f5",
     "glyph": "✦",
     "states": "Home · Temporary chat · Conversation",
-    "ai": true
+    "ai": true,
+    "edition": 1
   },
   {
     "slug": "cursor",
@@ -67,7 +73,8 @@
     "color": "#252525",
     "glyph": "▱",
     "states": "Composer · Task · Model selection",
-    "ai": true
+    "ai": true,
+    "edition": 1
   },
   {
     "slug": "grok",
@@ -77,7 +84,8 @@
     "color": "#252525",
     "glyph": "∕",
     "states": "Conversation · Edit · New chat",
-    "ai": true
+    "ai": true,
+    "edition": 1
   },
   {
     "slug": "perplexity",
@@ -87,7 +95,8 @@
     "color": "#20808d",
     "glyph": "✳",
     "states": "Search · Answer · Connectors",
-    "ai": true
+    "ai": true,
+    "edition": 2
   },
   {
     "slug": "replit",
@@ -97,7 +106,8 @@
     "color": "#f26207",
     "glyph": "▰",
     "states": "Projects · Workspace · Workflows",
-    "ai": true
+    "ai": true,
+    "edition": 2
   },
   {
     "slug": "elevenlabs",
@@ -107,7 +117,8 @@
     "color": "#191919",
     "glyph": "Ⅱ",
     "states": "Speech editor · Voices · History",
-    "ai": true
+    "ai": true,
+    "edition": 2
   },
   {
     "slug": "midjourney",
@@ -117,7 +128,8 @@
     "color": "#e65a3a",
     "glyph": "⛵",
     "states": "Gallery · Image · Prompt controls",
-    "ai": true
+    "ai": true,
+    "edition": 2
   },
   {
     "slug": "runway",
@@ -127,7 +139,8 @@
     "color": "#3621f5",
     "glyph": "r",
     "states": "Tools · Chat · Generation settings",
-    "ai": true
+    "ai": true,
+    "edition": 2
   },
   {
     "slug": "suno",
@@ -137,6 +150,73 @@
     "color": "#ed5935",
     "glyph": "S",
     "states": "Create · Workspace · Song selection",
-    "ai": true
+    "ai": true,
+    "edition": 2
+  },
+  {
+    "slug": "gumloop",
+    "name": "Gumloop",
+    "category": "AI AUTOMATION",
+    "description": "Connect a few steps. Make a workflow.",
+    "color": "#df63ac",
+    "glyph": "G",
+    "states": "Workflows · Builder · Local run",
+    "ai": true,
+    "edition": 3
+  },
+  {
+    "slug": "lindy",
+    "name": "Lindy",
+    "category": "AI AGENTS",
+    "description": "A workspace for agents that get things done.",
+    "color": "#cf9e43",
+    "glyph": "L",
+    "states": "Home · Agent flow · Test run",
+    "ai": true,
+    "edition": 3
+  },
+  {
+    "slug": "krea",
+    "name": "Krea AI",
+    "category": "AI CREATIVE TOOLS",
+    "description": "A prompt, a style, a visual possibility.",
+    "color": "#171717",
+    "glyph": "K",
+    "states": "Image · Video · Gallery",
+    "ai": true,
+    "edition": 3
+  },
+  {
+    "slug": "gamma",
+    "name": "Gamma",
+    "category": "AI PRESENTATIONS",
+    "description": "Ideas take shape, one card at a time.",
+    "color": "#7354c8",
+    "glyph": "G",
+    "states": "Editor · Theme · Present",
+    "ai": true,
+    "edition": 3
+  },
+  {
+    "slug": "lovable",
+    "name": "Lovable",
+    "category": "AI APP BUILDER",
+    "description": "Start with an idea. Build it in conversation.",
+    "color": "#ef6681",
+    "glyph": "L",
+    "states": "Home · Builder · Settings",
+    "ai": true,
+    "edition": 3
+  },
+  {
+    "slug": "bolt",
+    "name": "Bolt.new",
+    "category": "AI APP BUILDER",
+    "description": "A conversation with a working preview.",
+    "color": "#1488fc",
+    "glyph": "B",
+    "states": "Home · Builder · Preview",
+    "ai": true,
+    "edition": 3
   }
 ]

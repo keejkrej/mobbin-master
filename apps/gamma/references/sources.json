@@ -1,0 +1,24 @@
+{
+  "provider": "Mobbin MCP",
+  "retrieved_at": "2026-11-16",
+  "screens": [
+    {
+      "index": 0,
+      "id": "fcaa1856-e02b-4541-a3ba-46fdd704d0d1",
+      "image_url": "https://mobbin.com/api/mcp/short/Lmkr8byb",
+      "mobbin_url": "https://mobbin.com/screens/fcaa1856-e02b-4541-a3ba-46fdd704d0d1?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Gamma",
+      "platform": "web",
+      "file": "screen-1.webp"
+    },
+    {
+      "index": 1,
+      "id": "e0c5f114-3b30-4199-b307-0ece6d512708",
+      "image_url": "https://mobbin.com/api/mcp/short/izBYGaww",
+      "mobbin_url": "https://mobbin.com/screens/e0c5f114-3b30-4199-b307-0ece6d512708?utm_source=chatgpt&utm_medium=ai-assistant&utm_source_platform=mcp",
+      "app_name": "Gamma",
+      "platform": "web",
+      "file": "screen-2.webp"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "design-reference.webp": {
+    "source": "screen-2.webp",
+    "crop_xyxy": [
+      696,
+      522,
+      788,
+      613
+    ],
+    "description": "The white design reference image only, excluding remove control and composer UI."
+  }
+}

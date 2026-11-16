@@ -1,0 +1,7 @@
+:root {
+  --primary:#2456e9; --ink:#20211f; --muted:#666864; --canvas:#fdfbf9; --surface:#ffffff; --cream:#f8f4ec; --border:#e7e7e2; --selected:#dce5fb;
+  --preview:#f8f7f3; --preview-ink:#20252b; --preview-muted:#6d717d; --sage:#416f5b; --danger:#c8100b;
+  --purple:#5733c7; --blue:#5e8cff; --pink:#f544ad; --orange:#ff602e;
+  --radius-sm:6px; --radius-md:10px; --radius-lg:16px; --radius-composer:24px; --radius-pill:999px;
+  --space-xs:4px; --space-sm:8px; --space-md:16px; --space-lg:24px; --toolbar:46px; --chat-width:30.3%; --sidebar:260px;
+}

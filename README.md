@@ -1,6 +1,6 @@
 # Interface Studies
 
-Fourteen separate Next.js apps reconstructed from saved Mobbin web references, with interactive screen states and documented design systems.
+Twenty separate Next.js apps reconstructed from saved Mobbin web references, with interactive screen states and documented design systems.
 
 | App | Folder | Preview route | Main interactions |
 | --- | --- | --- | --- |
@@ -18,6 +18,12 @@ Fourteen separate Next.js apps reconstructed from saved Mobbin web references, w
 | Midjourney | [apps/midjourney](apps/midjourney) | `/midjourney/` | Gallery, Image, Prompt controls |
 | Runway | [apps/runway](apps/runway) | `/runway/` | Tools, Chat, Generation settings |
 | Suno | [apps/suno](apps/suno) | `/suno/` | Create, Workspace, Song selection |
+| Gumloop | [apps/gumloop](apps/gumloop) | `/gumloop/` | Workflows, Builder, Local run |
+| Lindy | [apps/lindy](apps/lindy) | `/lindy/` | Home, Agent flow, Test run |
+| Krea AI | [apps/krea](apps/krea) | `/krea/` | Image, Video, Gallery |
+| Gamma | [apps/gamma](apps/gamma) | `/gamma/` | Editor, Theme, Present |
+| Lovable | [apps/lovable](apps/lovable) | `/lovable/` | Home, Builder, Settings |
+| Bolt.new | [apps/bolt](apps/bolt) | `/bolt/` | Home, Builder, Preview |
 
 ## Run
 
@@ -29,7 +35,7 @@ npm run build
 npm run dev
 ```
 
-Open `http://localhost:3000` for the collection, then choose an app. The collection serves the static Next.js exports; rebuild after changing app code. Its searchable gallery includes an AI-products filter. `collection.json` defines the gallery entries and their order.
+Open `http://localhost:3000` for the collection, then choose an app. The collection serves the static Next.js exports; rebuild after changing app code. Its searchable gallery includes filters for AI products and the latest additions. `collection.json` defines the gallery entries and their order. The highest `edition` value supplies the Latest filter.
 
 For live development of a single app:
 
@@ -37,7 +43,7 @@ For live development of a single app:
 npm run dev --workspace @study/linear
 ```
 
-This serves Linear at `http://localhost:3001/linear`. The fourteen apps use ports 3001–3014 in the table order, with their matching base paths. Each is independently runnable and exportable, while sharing dependencies through npm workspaces.
+This serves Linear at `http://localhost:3001/linear`. The twenty apps use ports 3001–3020 in the table order, with their matching base paths. Each is independently runnable and exportable, while sharing dependencies through npm workspaces.
 
 ## Files in each app
 
@@ -67,6 +73,6 @@ Browser tests expect the collection preview to be running. Set `PLAYWRIGHT_BASE_
 
 These are independent interface studies, not official applications or original brand design system releases. Colors and dimensions are inferred from the reference captures retrieved on November 16, 2026. Proprietary font files and original vector assets were not supplied. Font substitutions, artwork crops, and states not visible in the references are described per app. Responsive layouts are inferred where only a desktop reference exists.
 
-Interactions run locally. AI replies are deterministic examples; Spotify's player simulates progress without streaming audio; account, reservation and task flows do not call production services. Some examples store their own study data in browser localStorage. No API keys are required. The six additional AI studies cover search (Perplexity), development (Replit), speech (ElevenLabs), images (Midjourney), video (Runway), and music (Suno). Generated results and media playback are local simulations, except where a study explicitly documents otherwise.
+Interactions run locally. AI replies are deterministic examples; Spotify's player simulates progress without streaming audio; account, reservation and task flows do not call production services. Some examples store their own study data in browser localStorage. No API keys are required. The AI studies cover assistants, search, coding, workflow agents, presentations, speech, images, video, and music. Generated results and media playback are local simulations.
 
 Saved reference screenshots retain their source attribution. Brand assets and screenshots remain the property of their respective owners. Dependency licenses remain with their packages; UI SDK is Apache-2.0. This repository does not claim a license to redistribute third-party branding beyond the supplied study materials.
